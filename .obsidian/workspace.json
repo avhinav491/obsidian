@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "links of notes/Markdown sheet.md",
+                "file": "linux/2 linux 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Markdown sheet"
+              "title": "2 linux 1"
             }
           }
         ],
@@ -391,8 +391,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8d516c1bc734b86e",
+  "active": "9f11d087b34986f0",
   "lastOpenFiles": [
+    "link of notes",
+    "links/Markdown sheet.md",
     "ctf write ups/built-in commands.md",
     "ctf write ups/DOT(.).md",
     "ctf write ups/two path.md",
@@ -404,17 +406,16 @@
     "linux/2 linux 1.md",
     "linux/9 Files & Directory Permissions in Linux.md",
     "linux/1 Introduction to Linux.md",
-    "links of notes/LIST.md",
+    "links/LIST.md",
     "linux/installing linux.md",
     "linux/Linux Compressing and Archiving.md",
-    "links of notes/Youtube Links.md",
-    "links of notes/nca resources and links.md",
+    "links/Youtube Links.md",
+    "links/nca resources and links.md",
     "linux/NETWORKING.md",
     "linux/software Management in Linux.md",
     "images",
     "Screenshot 2026-03-05 000206.jpg",
     "linux/Files & Directory Permissions.md",
-    "links of notes/Markdown sheet.md",
     "links of notes/urlhttps.md",
     "links of notes/my first note.md",
     "ctf write ups",
