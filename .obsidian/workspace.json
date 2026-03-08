@@ -271,8 +271,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -392,7 +391,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e4e26c8bbeff853",
+  "active": "9f11d087b34986f0",
   "lastOpenFiles": [
     "ctf write ups/DOT(.).md",
     "ctf write ups/two path.md",
